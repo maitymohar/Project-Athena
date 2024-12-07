@@ -136,9 +136,9 @@ Please refer to the project's style and contribution guidelines for submitting p
 4.  **Push** your work back up to your fork
 5.  Submit a **Pull request** so that we can review your changes
 
-NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/OpencodeNIT-R/project-athena/blob/master/CONTRIBUTING.md).
+NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/OpencodeNIT-R/Project-Athena/blob/master/CONTRIBUTING.md).
 
-NOTE 2: Please abide by the [Code of Conduct](https://github.com/OpencodeNIT-R/project-athena/blob/master/CODE_OF_CONDUCT.md).
+NOTE 2: Please abide by the [Code of Conduct](https://github.com/OpencodeNIT-R/Project-Athena/blob/master/CODE_OF_CONDUCT.md).
 
 ### Running the project.
 
@@ -187,13 +187,13 @@ Your appreciation makes us grow and glow up. ⭐
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/OpencodeNIT-R/project-athena?style=for-the-badge
-[contributors-url]: https://github.com/OpencodeNIT-R/project-athena/graphs/contributors
+[contributors-url]: https://github.com/OpencodeNIT-R/Project-Athena/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/OpencodeNIT-R/project-athena?style=for-the-badge
-[forks-url]: https://github.com/OpencodeNIT-R/project-athena/network/members
+[forks-url]: https://github.com/OpencodeNIT-R/Project-Athena/network/members
 [stars-shield]: https://img.shields.io/github/stars/OpencodeNIT-R/project-athena?style=for-the-badge
-[stars-url]: https://github.com/OpencodeNIT-R/project-athena/stargazers
+[stars-url]: https://github.com/OpencodeNIT-R/Project-Athena/stargazers
 [issues-shield]: https://img.shields.io/github/issues/OpencodeNIT-R/project-athena?style=for-the-badge
-[issues-url]: https://github.com/OpencodeNIT-R/project-athena/issues
+[issues-url]: https://github.com/OpencodeNIT-R/Project-Athena/issues
 [license-shield]: https://img.shields.io/github/license/OpencodeNIT-R/project-athena?style=for-the-badge
-[license-url]: https://github.com/OpencodeNIT-R/project-athena/LICENSE
+[license-url]: https://github.com/OpencodeNIT-R/Project-Athena/LICENSE
 [Opencode-nitr]: images/logo_plus_wordmark_black.png
