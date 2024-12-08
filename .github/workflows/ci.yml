@@ -21,28 +21,3 @@ jobs:
       run: yarn lint
     - name: Build
       run: yarn build
-
-  deploy:
-    needs: build-and-test
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-    - uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '22.x'
-        cache: 'yarn'
-
-    - name: Install Dependencies
-      run: yarn install --frozen-lockfile
-
-    - name: Install Vercel CLI
-      run: yarn add -D vercel
-
-    - name: Deploy to Vercel
-      env:
-        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-      run: |
-        npx vercel --prod --yes --token=$VERCEL_TOKEN
