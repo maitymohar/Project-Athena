@@ -1,7 +1,13 @@
+import Hero from './components/hero.jsx';
+import Navbar from './components/navbar.jsx';
+import Footer from './components/footer.jsx';
+
 const Playground = () => {
   return (
-    <div className="bg-slate-800 min-h-screen flex justify-center items-center text-white text-7xl">
-      Playground
+    <div>
+      <Navbar />
+      <Hero />
+      <Footer />
     </div>
   );
 };
